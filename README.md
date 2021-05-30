@@ -28,8 +28,14 @@ Install all of Fira Sans, Fira Code, Fira Mono, and associated variants.
 -   <a href="https://www.gnome-look.org/p/1366182/">Qogir (Primary)</a>
 
 #### Apps
+
 Install these Apps.
 
+-   Grub Customizer (Important)
+-   Gnome Tweaks (Important)
+-   Dconf Editor (Important)
+-   7zip
+-   Ubuntu Restricted Extras & Codecs
 -   Discord
 -   Telegram
 -   Visual Studio Code
@@ -41,8 +47,6 @@ Install these Apps.
 -   Flat App support
 -   Flathub App store
 -   Thunderbird
--   Gnome Tweaks
--   Dconf Editor
 -   VLC
 -   To Do
 -   Mega Sync Dekstop App
@@ -50,9 +54,9 @@ Install these Apps.
 -   Libreoffice
 -   OnlyOffice (Libreoffice alternative)
 -   GIMP
--   7zip
 -   Drawio
 
 #### Hardware
+
 -   Logitech MS Keys Keyboard
 -   Logitech MX Master 3 Mouse
