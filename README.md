@@ -1,6 +1,9 @@
 # UWOS-Gnome-config
 
-<p align="left">UWOS (Universal Web OS) Gnome extension config - First make sure to install the fonts, icon, gnome, and cursor themes before you sync settings. Use Gnome <img src="https://extensions.gnome.org/extension-data/icons/icon_1486_OynY7jy.png" width="28px"><a href="https://extensions.gnome.org/extension/1486/extensions-sync/">Extensions Sync</a> to "download"/import the provided <a href="https://github.com/universalweb/UWOS-Gnome-config/blob/main/extensions-sync.json">config</a>. Then procede to update the wallpapers extension with the correct folder for your system.</p>
+<p align="left">UWOS (Universal Web OS) Gnome extension config - First make sure to install the latest version of Ubuntu then fonts, icon, gnome, and cursor themes before you sync settings. Use Gnome <img src="https://extensions.gnome.org/extension-data/icons/icon_1486_OynY7jy.png" width="28px"><a href="https://extensions.gnome.org/extension/1486/extensions-sync/">Extensions Sync</a> to "download"/import the provided <a href="https://github.com/universalweb/UWOS-Gnome-config/blob/main/extensions-sync.json">config</a>. Then procede to update the wallpapers extension with the correct folder for your system.</p>
+
+<p>Apps can be installed after the fact but should be installed prior so that config is more fitting.</p>
+<p>Make sure to use CMD or the primary button left of the space bar for all system actions the config may include or overwrite some keyboard options relating to this.</p>
 
 #### Fonts
 
@@ -23,3 +26,33 @@ Install all of Fira Sans, Fira Code, Fira Mono, and associated variants.
 #### Cursor themes
 
 -   <a href="https://www.gnome-look.org/p/1366182/">Qogir (Primary)</a>
+
+#### Apps
+Install these Apps.
+
+-   Discord
+-   Telegram
+-   Visual Studio Code
+-   Chrome
+-   Chromium
+-   Firefox
+-   Plex Server
+-   Plex Media Player
+-   Flat App support
+-   Flathub App store
+-   Thunderbird
+-   Gnome Tweaks
+-   Dconf Editor
+-   VLC
+-   To Do
+-   Mega Sync Dekstop App
+-   Authenticator
+-   Libreoffice
+-   OnlyOffice (Libreoffice alternative)
+-   GIMP
+-   7zip
+-   Drawio
+
+#### Hardware
+-   Logitech MS Keys Keyboard
+-   Logitech MX Master 3 Mouse
