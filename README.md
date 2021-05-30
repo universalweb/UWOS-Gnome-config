@@ -4,6 +4,8 @@
 
 #### Fonts
 
+Install all of Fira Sans, Fira Code, Fira Mono, and associated variants.
+
 -   http://mozilla.github.io/Fira/
 -   https://github.com/mozilla/Fira
 -   https://github.com/tonsky/FiraCode
