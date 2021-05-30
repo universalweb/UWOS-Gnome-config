@@ -1,6 +1,6 @@
 # UWOS-Gnome-config
 
-UWOS (Universal Web OS) Gnome extension config
+<p align="left">UWOS (Universal Web OS) Gnome extension config - Use Gnome <img src="https://extensions.gnome.org/extension-data/icons/icon_1486_OynY7jy.png" width="28px"><a href="https://extensions.gnome.org/extension/1486/extensions-sync/">Extensions Sync</a> to "download"/import the provided config. Then procede to update the wallpapers extension with the correct folder for your system.</p>
 
 #### Fonts
 
@@ -20,4 +20,4 @@ UWOS (Universal Web OS) Gnome extension config
 
 #### Cursor themes
 
--   https://www.gnome-look.org/p/1366182/ (Primary)
+-   <a href="https://www.gnome-look.org/p/1366182/">Qogir (Primary)</a>
