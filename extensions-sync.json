@@ -93,9 +93,6 @@
 		"Vitals@CoreCoding.com": {
 			"/org/gnome/shell/extensions/vitals/": "[/]\nalphabetize=false\nfixed-widths=true\nhide-zeros=true\ninclude-public-ip=true\nnetwork-speed-format=0\nposition-in-panel=2\nshow-fan=false\nshow-memory=true\nshow-network=true\nshow-processor=true\nshow-storage=true\nshow-system=true\nshow-temperature=false\nshow-voltage=false\nupdate-time=1\nuse-higher-precision=true"
 		},
-		"simplenetspeed@biji.extension": {
-			"/org/gnome/shell/extensions/simplenetspeed/": "[/]\nmode=2"
-		},
 		"ddterm@amezin.github.com": {
 			"/com/github/amezin/ddterm/": "[/]\nbackground-color='rgb(0x17, 0x14, 0x21)'\ncjk-utf8-ambiguous-width='narrow'\ncursor-blink-mode='off'\ncursor-shape='ibeam'\ncustom-font='Fira Mono 14'\nddterm-activate-hotkey=@as []\nddterm-toggle-hotkey=['<Primary>grave']\nforeground-color='rgb(0xd0, 0xcf, 0xcc)'\nhide-when-focus-lost=true\nhide-window-on-esc=true\nnew-tab-button=true\nnew-tab-front-button=false\npalette=['rgb(0x17, 0x14, 0x21)', 'rgb(0xc0, 0x1c, 0x28)', 'rgb(0x26, 0xa2, 0x69)', 'rgb(0xa2, 0x73, 0x4c)', 'rgb(0x12, 0x48, 0x8b)', 'rgb(0xa3, 0x47, 0xba)', 'rgb(0x2a, 0xa1, 0xb3)', 'rgb(0xd0, 0xcf, 0xcc)', 'rgb(0x5e, 0x5c, 0x64)', 'rgb(0xf6, 0x61, 0x51)', 'rgb(0x33, 0xd1, 0x7a)', 'rgb(0xe9, 0xad, 0x0c)', 'rgb(0x2a, 0x7b, 0xde)', 'rgb(0xc0, 0x61, 0xcb)', 'rgb(0x33, 0xc7, 0xde)', 'rgb(0xff, 0xff, 0xff)']\npanel-icon-type='none'\ntab-expand=true\ntab-policy='always'\ntab-position='top'\ntab-switcher-popup=true\ntext-blink-mode='always'\ntheme-variant='dark'\nuse-system-font=false\nuse-theme-colors=false\nwindow-maximize=false\nwindow-monitor='current'\nwindow-position='top'\nwindow-size=0.59999999999999998\nwindow-skip-taskbar=false"
 		},
