@@ -103,7 +103,6 @@
 		"cryptostash@filidorwiese.nl": {
 			"/org/gnome/shell/extensions/crypto-stash/": ""
 		},
-		"hide-panel@fthx": {},
 		"dynamic-panel-transparency@rockon999.github.io": {
 			"/org/gnome/shell/extensions/dynamic-panel-transparency/": "[/]\nenable-background-color=true\nenable-maximized-text-color=false\nenable-opacity=true\nenable-overview-text-color=false\nenable-text-color=true\nhide-corners=false\nicon-shadow=true\nicon-shadow-color=(0, 0, 0, 0.77000000000000002)\nicon-shadow-position=(0, 1, 1)\nmaximized-opacity=209\nmaximized-text-color=(255, 255, 255)\npanel-color=[0, 0, 0]\nremove-panel-styling=true\ntext-color=(255, 255, 255)\ntext-shadow=true\ntext-shadow-color=(0, 0, 0, 0.60999999999999999)\ntext-shadow-position=(0, 1, 1)\ntransition-speed=1000\ntransition-windows-touch=true\ntransition-with-overview=true\nunmaximized-opacity=153"
 		}
